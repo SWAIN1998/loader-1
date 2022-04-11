@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://course.masaischool.com/)
 
-- 🌱 I’m currently learning **Advance Javascript......**
+- 🌱 I’m currently learning **MERN stack......**
 
 - 👯 I’m looking to collaborate on [mamaearth.in clone](https://github.com/roshan93190/mamaearth)
 
