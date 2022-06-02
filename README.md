@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack......**
 
-- 👯 I’m looking to collaborate on [Myntra.in clone](https://github.com/roshan93190/mamaearth)
+- 👯 I’m looking to collaborate on [Help india Website]
 
 - 🤝 I’m looking for help with **my next project during construct week....**
 
