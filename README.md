@@ -22,8 +22,7 @@
 - ⚡ Fun fact **The first person convicted of speeding was going eight mph**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[https://medium.com/@swainrakeshkumar60?source=post_page-----304a3d9e616b--------------------------------](https://medium.com/@swainrakeshkumar60?source=post_page-----304a3d9e616b--------------------------------)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
