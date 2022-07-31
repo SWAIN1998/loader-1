@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakesh,</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loader-1&label=Profile%20views&color=0e75b6&style=flat" alt="loader-1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SWAIN1998" alt="SWAIN1998" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rakeshs42621781" target="blank"><img src="https://img.shields.io/twitter/follow/rakeshs42621781?logo=twitter&style=for-the-badge" alt="rakeshs42621781" /></a> </p>
-
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://course.masaischool.com/)
 
 - 🌱 I’m currently learning **MERN stack......**
