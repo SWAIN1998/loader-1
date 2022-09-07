@@ -272,6 +272,6 @@
     alt="SWAIN1998"
   />
 </p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 Support 🙏 If you like my work, please consider buying me a coffee/tea 🥺
