@@ -4,7 +4,7 @@
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://course.masaischool.com/) 
 - 🌱 I’m currently learning **MERN stack......** 
 - 👯 I’m looking to collaborate on Projects 
-- 🤝 I’m looking for help with **my next project** 
+- 🤝 I’m looking for help outstanding Project Idea 
 - 💬 Ask me Anything **Related to web development technology** 
 - 📫 How to reach me **https://rakesh-swain.netlify.app/** 
 - ⚡ Fun fact **The first person convicted of speeding was going eight mph** ### Blogs posts
