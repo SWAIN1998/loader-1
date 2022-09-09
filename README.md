@@ -7,7 +7,8 @@
 - 🤝 I’m looking for help outstanding Project Idea 
 - 💬 Ask me Anything **Related to web development technology** 
 - 📫 How to reach me **https://rakesh-swain.netlify.app/** 
-- ⚡ Fun fact **The first person convicted of speeding was going eight mph** ### Blogs posts
+- ⚡ Fun fact **The first person convicted of speeding was going eight mph** 
+### Blogs posts
 [https://medium.com/@swainrakeshkumar60?source=post_page-----304a3d9e616b--------------------------------](https://medium.com/@swainrakeshkumar60?source=post_page-----304a3d9e616b--------------------------------)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
