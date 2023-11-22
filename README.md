@@ -11,9 +11,9 @@
 
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently Working On Prodios Lab
 - 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with developing AI skills..
+- 🤔 I’m looking for help with developing MERN skills..
 - 💬 Ask me about any MERN related stuff
 - 📫 you can reach me at swainrakeshkumar60@gmail.com
 - 😄 Pronouns: He/Him
@@ -91,7 +91,7 @@
 
 <div>
   <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
-  <p align="center"<a href="#"><img alt="SWAIN1998's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SWAIN1998&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+  <p align="center"<a href="#"><img alt="SWAIN1998's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swain1998&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </div>
 
 <div>
