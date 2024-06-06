@@ -99,7 +99,7 @@
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
   <p align="center"> <a href="https://github.com/SWAIN1998"><img src="https://github-profile-trophy.vercel.app/?username=SWAIN1998&margin-w=5&theme=radical" alt="Abhishek" /></a> </p>
 </div>
-![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png)
 
+![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png)
  <hr>
 
